@@ -1,0 +1,2 @@
+Xmms2PHPRemoteBundle
+====================
