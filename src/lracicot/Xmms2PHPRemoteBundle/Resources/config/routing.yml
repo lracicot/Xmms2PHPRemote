@@ -1,0 +1,3 @@
+lracicot_xmms2_php_remote_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: lracicotXmms2PHPRemoteBundle:Default:index }
